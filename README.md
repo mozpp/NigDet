@@ -22,4 +22,4 @@ Nighttime vehicle detection
 
 7, follow `mscnn-master` to compile caffe and generate training label file.
 
-8, `cd ./mscnn-master/examples/kitti_car/add2p123_s2_sublob`, run `trian_mscnn.sh` to train a model.
+8, `cd ./mscnn-master/examples/kitti_car/mscnn-p123s2-subcls3`, run `trian_mscnn.sh` to train a model.
