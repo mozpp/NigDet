@@ -2,6 +2,9 @@
 Nighttime vehicle detection
 
 # Test
+1, download dataset and model. 链接: https://pan.baidu.com/s/17AEdluJq0hOByEHuc6Hnsg 提取码: 6dqp 
+
+2, `./mscnn-master/examples/kitti_car/run_mscnn_detection.m`.
 
 # Train your own dataset
 1, tools/blob1.m 获取候选灯光.
