@@ -24,6 +24,7 @@ https://github.com/mozpp/NigDet
 
 6, `tools/concat4ch.py` concat mask to original image.
 
-7, follow `mscnn-master` to compile caffe and generate training label file.
+7, follow `mscnn-master` to compile caffe and generate training label file.  
+https://github.com/mozpp/mscnn-master
 
 8, `cd ./mscnn-master/examples/kitti_car/mscnn-p123s2-subcls3`, run `trian_mscnn.sh` to train a model.
