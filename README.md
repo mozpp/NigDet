@@ -1,5 +1,6 @@
 # NigDet
 Nighttime vehicle detection
+https://github.com/mozpp/NigDet
 
 # Test
 1, download dataset and model. 链接: https://pan.baidu.com/s/17AEdluJq0hOByEHuc6Hnsg 提取码: 6dqp 
