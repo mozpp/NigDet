@@ -1,5 +1,5 @@
 # NigDet
-Nighttime vehicle detection
+Nighttime vehicle detection.  
 https://github.com/mozpp/NigDet
 
 # Test
